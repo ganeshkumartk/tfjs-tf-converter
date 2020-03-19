@@ -20,12 +20,12 @@ very project).
 
 ## Prerequisites
 
-* tensorflow 1.15.0+
+* tensorflow 2.0+
 * tensorflowjs 1.3.2+
 
 ## Compatibility
 
-The converter has been tested with tensorflowjs v1.3.2 and tensorflow v1.15.0.
+The converter has been tested with tensorflowjs v2.1.1 and tensorflow v1.15.0.
 The Python version used was Python 3.7.5.
 
 ## Installation
