@@ -1,4 +1,4 @@
-# TensorflowJS Graph Model Converter
+# TensorflowJS Graph Model to Tensorflow Saved Model Converter
 
 The purpose of this library is to import TFJS graph models into Tensorflow.
 This allows users to use TensorflowJS models with Python in case they don't
